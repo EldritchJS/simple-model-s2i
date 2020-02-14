@@ -1,4 +1,5 @@
-FROM registry.fedoraproject.org/f27/s2i-base:latest
+FROM registry.fedoraproject.org/f29/s2i-base:latest
+#FROM registry.fedoraproject.org/f27/s2i-base:latest
 
 USER root
 
